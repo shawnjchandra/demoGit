@@ -1,1 +1,5 @@
+#Note 1
 Isi file 1
+
+#Note 2 :
+update ke 2 untuk file 1
