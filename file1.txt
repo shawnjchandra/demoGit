@@ -3,3 +3,6 @@ Isi file 1
 
 #Note 2 :
 update ke 2 untuk file 1
+
+#Note 3 :
+update ke 3 untuk file 1

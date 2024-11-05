@@ -3,3 +3,6 @@ Isi dari file 2
 
 #Note 2:
 Update ke 2 dari file 2
+
+#Not 3:
+update ke 3 dari file 2
